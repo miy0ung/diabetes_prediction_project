@@ -3,6 +3,10 @@
 
 ![image](https://github.com/miy0ung/diabetes_prediction_project/assets/101385210/d8455940-853c-4917-9a6b-c82eda3cd735)
 
+### <요약>
+본 프로젝트에서는 당뇨병 예측 데이터를 활용하여 다양한 전처리 기법을 적용한 뒤 그 차이를 비교해 보았다. 이후 Logistic Regression, Random Forest, SVM 모델의 예측 성능을 비교해 보았는데, 그 결과 Random Forest 모델이 가장 우수하였다. 모델을 비교하는 지표로는 AUC를 이용하였다. 또한, 가장 성능이 높은Random Forest 모델을 통해 추정해 본 결과, 당뇨병에 영향을 미치는 위험요인들의 중요도 순위는 당화혈
+색소(HbA1c_level), 혈당 수치(blood_glucose_level), 나이(age)순이었다.
+
 
 ### <서론>
 최근 비만, 부종, 인구 고령화 등의 요인으로 인해 당뇨병 유병률이 세계적으로 급증하고 있다. 당뇨병은 만성적 질환이기에 관리하지 않을 경우 중증의 합병증을 유발할 수 있다는 점에서 사회적으로 주목을 받고 있기도 하다. 대한당뇨병학회의 당뇨병 팩트 시트 논문(Diabetes Fact Sheet in Korea 2021)에 따르면, 2020년의 당뇨병 환자 수는 600만 명으로, 2010년에 비해 2배 증가한 바 있다. 이에 반해 당뇨병의 발생을 감하기 위해서는 당뇨병에 영향을 미치는 위험 요인을 파악하고, 사전에 예방할 필요가 있다.
@@ -11,7 +15,7 @@
 
 ### <모델>
 - Logistic Regression
-- Randomforest
+- Random Forest
 - SVM
 
 
