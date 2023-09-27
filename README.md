@@ -1,6 +1,9 @@
 # Diabetes_Prediction_Project
 - Member: 김미영, 이주은, 조강국, 하수연
 
+  ![Uploading image.png…]()
+
+
 ## Dataset
 - Kaggle: https://www.kaggle.com/datasets/iammustafatz/diabetes-prediction-dataset
 
