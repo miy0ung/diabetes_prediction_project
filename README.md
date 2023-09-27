@@ -1,7 +1,7 @@
 # Diabetes_Prediction_Project
 - Member: 김미영, 이주은, 조강국, 하수연
 
-  ![Uploading image.png…]()
+  ![image](https://github.com/miy0ung/diabetes_prediction_project/assets/101385210/e194a7ac-ef79-4450-b796-2ba05e9080aa)
 
 
 ## Dataset
